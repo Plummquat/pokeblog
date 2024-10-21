@@ -1,7 +1,7 @@
 body {
   font-family: "Literata", sans-serif;
-  background-color: #FFFFFF; /* Dark background color */
-  color: #8B0000; /* White text color */
+  background-color: #41B3A3; /* Dark background color */
+  color: #00000a; /* White text color */
   margin: 0;
 }
 
@@ -11,7 +11,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  color: #000000; /* Blue for h1 */
+  color: #0000e4; /* Blue for h1 */
   font-family: 'monospace';
 }
 
@@ -21,9 +21,10 @@ h2, h3 {
 
 p {
   margin: 1% 10%;
-  color: #8B0000;
+  color: #00000a;
   font-family: 'monospace';
   font-size: 1.5em;
+  border: 2px dashed #0000e4; /* Border color matches h2 and h3 */
   padding: 10px;
 }
 
@@ -41,4 +42,9 @@ leftcol {
 
 a:active {
   color: #0000e4;
+}
+
+
+a:active {
+  color: #f000ff;
 }
