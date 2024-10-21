@@ -12,3 +12,4 @@ Here I will be posting my thoughts on various things related to Pokemon.
 
 [Twitter](https://twitter.com/plumquat)
 
+<center><img src="ae6fe2f690886c3dbe1f9cdeffdeeb1e_w200.gif" width="200"></center>
