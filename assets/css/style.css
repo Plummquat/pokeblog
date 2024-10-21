@@ -1,0 +1,44 @@
+body {
+  font-family: "Literata", sans-serif;
+  background-color: #FFFFFF; /* Dark background color */
+  color: #8B0000; /* White text color */
+  margin: 0;
+}
+
+h1, h2, h3 {
+  margin: 2% 10%;
+  text-align: center;
+}
+
+h1 {
+  color: #000000; /* Blue for h1 */
+  font-family: 'monospace';
+}
+
+h2, h3 {
+  color: #0000e4; /* Lighter blue for h2 and h3 */
+}
+
+p {
+  margin: 1% 10%;
+  color: #8B0000;
+  font-family: 'monospace';
+  font-size: 1.5em;
+  padding: 10px;
+}
+
+selection {
+  background: #0000e4; /* Blue background for selection */
+}
+
+leftcol {
+  color: #0000e4; /* Lighter blue for leftcol text */
+  width: 25%;
+  position: absolute;
+  left: 5px;
+  top: 0;
+}
+
+a:active {
+  color: #0000e4;
+}
